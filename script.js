@@ -18,7 +18,7 @@ const skillsData = {
     },
     javascript: {
         description: "Possuo conhecimentos intermediários em JavaScript, com experiência em desenvolvimento de funcionalidades interativas para páginas web. Estou sempre buscando aprimorar minhas habilidades em frameworks como React e Node.js.",
-        link: "https://github.com/seugithub/projeto-javascript"
+        link: "https://github.com/RaphaelRosa74/projeto-idade"
     },
     excel: {
         description: "Tenho conhecimentos básicos em Excel, com experiência em criação de planilhas, fórmulas e gráficos. Utilizo essa ferramenta para análise de dados e automação de tarefas repetitivas.",
