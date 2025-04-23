@@ -21,7 +21,7 @@ const skillsData = {
         link: "https://github.com/RaphaelRosa74/projeto-idade"
     },
     react: {
-        description: "Possuo conhecimentos em desenvolvimento front-end com React, adquiridos através de cursos e projetos pessoais. Tenho experiência na criação de componentes reutilizáveis, gerenciamento de estado com Context API e integração com APIs REST. Meus projetos incluem aplicações SPA (Single Page Applications) com roteamento dinâmico e hooks modernos.",
+        description: "Possuo conhecimentos em domínio em React com foco em componentes reutilizáveis, gerenciamento de estado (Context API/hooks), integração com APIs REST, SPA com roteamento dinâmico e otimização com hooks modernos",
         link: "https://github.com/RaphaelRosa74/projeto-costs"
     },
 };
