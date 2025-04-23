@@ -21,7 +21,7 @@ const skillsData = {
         link: "https://github.com/RaphaelRosa74/projeto-idade"
     },
     react: {
-        description: "Possuo conhecimentos em domínio em React com foco em componentes reutilizáveis, gerenciamento de estado (Context API/hooks), integração com APIs REST, SPA com roteamento dinâmico e otimização com hooks modernos",
+        description: "Possuo conhecimentos em domínio em React com foco em componentes reutilizáveis, gerenciamento de estado (Context API/hooks), integração com APIs REST e otimização com hooks modernos",
         link: "https://github.com/RaphaelRosa74/projeto-costs"
     },
 };
