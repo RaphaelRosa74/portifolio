@@ -20,10 +20,10 @@ const skillsData = {
         description: "Possuo conhecimentos intermediários em JavaScript, com experiência em desenvolvimento de funcionalidades interativas para páginas web. Estou sempre buscando aprimorar minhas habilidades em frameworks como React e Node.js.",
         link: "https://github.com/RaphaelRosa74/projeto-idade"
     },
-    excel: {
-        description: "Tenho conhecimentos básicos em Excel, com experiência em criação de planilhas, fórmulas e gráficos. Utilizo essa ferramenta para análise de dados e automação de tarefas repetitivas.",
-        link: "https://github.com/seugithub/projeto-excel"
-    }
+    react: {
+        description: "Possuo conhecimentos em desenvolvimento front-end com React, adquiridos através de cursos e projetos pessoais. Tenho experiência na criação de componentes reutilizáveis, gerenciamento de estado com Context API e integração com APIs REST. Meus projetos incluem aplicações SPA (Single Page Applications) com roteamento dinâmico e hooks modernos.",
+        link: "https://github.com/RaphaelRosa74/projeto-costs"
+    },
 };
 
 // Seleciona todos os elementos de habilidade
