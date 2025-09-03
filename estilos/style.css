@@ -220,3 +220,34 @@ footer {
         font-size: 2rem;
     }
 }
+
+/* === Animações modernas === */
+
+.skill {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.skill:hover {
+    transform: translateY(-8px) scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    background: #f0f8ff;
+    border-radius: 10px;
+}
+
+button, a {
+    transition: all 0.3s ease;
+}
+
+button:hover, a:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+}
+
+header h1 {
+    transition: color 0.3s ease;
+}
+
+header h1:hover {
+    color: #3498db;
+}
